@@ -1,0 +1,8 @@
+D:\workspace\C#\TF\TF\bin\Debug\TF.exe.config
+D:\workspace\C#\TF\TF\bin\Debug\TF.exe
+D:\workspace\C#\TF\TF\bin\Debug\TF.pdb
+D:\workspace\C#\TF\TF\bin\Debug\TensorFlowSharp.dll
+D:\workspace\C#\TF\TF\bin\Debug\TensorFlowSharp.xml
+D:\workspace\C#\TF\TF\obj\Debug\TF.exe
+D:\workspace\C#\TF\TF\obj\Debug\TF.pdb
+D:\workspace\C#\TF\TF\obj\Debug\TF.csprojResolveAssemblyReference.cache
